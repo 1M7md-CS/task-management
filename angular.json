@@ -30,7 +30,8 @@
             "styles": ["src/styles.css"]
           },
           "configurations": {
-            "production": {
+"production": {
+              "baseHref": "/task-management/",
               "budgets": [
                 {
                   "type": "initial",
